@@ -376,6 +376,9 @@ article .icon {
   margin: 1rem;
   color: black;
 }
+.additional-info p {
+  margin: 0.5rem
+}
 
 .project-btn {
   color: black;
